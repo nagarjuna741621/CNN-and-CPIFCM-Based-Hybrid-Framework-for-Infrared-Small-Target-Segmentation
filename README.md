@@ -1,0 +1,2 @@
+# CNN-and-CPIFCM-Based-Hybrid-Framework-for-Infrared-Small-Target-Segmentation
+Developed a hybrid infrared small target segmentation framework by integrating CNN (U-Net) with Core Region Induced Probability Intuitionistic Fuzzy C-Means (CPIFCM). The model combines deep learning-based probability estimation  fuzzy clustering to improve target detection, segmentation accuracy, and background suppression using the SIRST dataset.
